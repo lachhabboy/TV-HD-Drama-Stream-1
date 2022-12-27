@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/2156587604",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/4734402068",
+        "NativeAdmob": "ca-app-pub-2120403233975259/1362380689",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5093338",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Discover what to watch today",
+        "image": "https://www.guidetv.be/sites/default/files/styles/tip/public/program/forrest-gump.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "StreamingTVGuides.com has been re-worked from the ground up to improve load times and ease the development work for future renditions of the site. Unfortunately existing users will have to head over to the Preferences page to reset My Favorites. Favorites are now contained within a single menu regardless of the number of packages or combination of subscriptions you have.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
